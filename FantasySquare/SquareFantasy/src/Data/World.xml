@@ -1,0 +1,794 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<!DOCTYPE Worlds SYSTEM "World.dtd">
+
+<Worlds>
+    <World name="Plain1" size="10">
+        <Foreground>
+            <GateNode x="9" y="0" xSpawn="1" ySpawn="0" lead="Plain2">M</GateNode>
+            <GateNode x="9" y="1" xSpawn="1" ySpawn="1" lead="Plain2">M</GateNode>
+            <GateNode x="9" y="2" xSpawn="1" ySpawn="2" lead="Plain2">M</GateNode>
+            <GateNode x="9" y="3" xSpawn="1" ySpawn="3" lead="Plain2">M</GateNode>
+            <GateNode x="9" y="4" xSpawn="1" ySpawn="4" lead="Plain2">M</GateNode>
+            <GateNode x="9" y="5" xSpawn="1" ySpawn="5" lead="Plain2">M</GateNode>
+            <GateNode x="9" y="6" xSpawn="1" ySpawn="6" lead="Plain2">M</GateNode>
+            <GateNode x="9" y="7" xSpawn="1" ySpawn="7" lead="Plain2">M</GateNode>
+            <GateNode x="9" y="8" xSpawn="1" ySpawn="8" lead="Plain2">M</GateNode>
+            <GateNode x="9" y="9" xSpawn="1" ySpawn="9" lead="Plain2">M</GateNode>
+
+            <GateNode x="0" y="9" xSpawn="0" ySpawn="1" lead="Plain4">M</GateNode>
+            <GateNode x="1" y="9" xSpawn="1" ySpawn="1" lead="Plain4">M</GateNode>
+            <GateNode x="2" y="9" xSpawn="2" ySpawn="1" lead="Plain4">M</GateNode>
+            <GateNode x="3" y="9" xSpawn="3" ySpawn="1" lead="Plain4">M</GateNode>
+            <GateNode x="4" y="9" xSpawn="4" ySpawn="1" lead="Plain4">M</GateNode>
+            <GateNode x="5" y="9" xSpawn="5" ySpawn="1" lead="Plain4">M</GateNode>
+            <GateNode x="6" y="9" xSpawn="6" ySpawn="1" lead="Plain4">M</GateNode>
+            <GateNode x="7" y="9" xSpawn="7" ySpawn="1" lead="Plain4">M</GateNode>
+            <GateNode x="8" y="9" xSpawn="8" ySpawn="1" lead="Plain4">M</GateNode>
+            <GateNode x="9" y="9" xSpawn="9" ySpawn="1" lead="Plain4">M</GateNode>
+        </Foreground>
+        <Background biome="GRASS"></Background>
+    </World>
+    <World name="Plain4" size="10">
+        <Foreground>
+            <GateNode x="0" y="0" xSpawn="0" ySpawn="8" lead="Plain1">M</GateNode>
+            <GateNode x="1" y="0" xSpawn="1" ySpawn="8" lead="Plain1">M</GateNode>
+            <GateNode x="2" y="0" xSpawn="2" ySpawn="8" lead="Plain1">M</GateNode>
+            <GateNode x="3" y="0" xSpawn="3" ySpawn="8" lead="Plain1">M</GateNode>
+            <GateNode x="4" y="0" xSpawn="4" ySpawn="8" lead="Plain1">M</GateNode>
+            <GateNode x="5" y="0" xSpawn="5" ySpawn="8" lead="Plain1">M</GateNode>
+            <GateNode x="6" y="0" xSpawn="6" ySpawn="8" lead="Plain1">M</GateNode>
+            <GateNode x="7" y="0" xSpawn="7" ySpawn="8" lead="Plain1">M</GateNode>
+            <GateNode x="8" y="0" xSpawn="8" ySpawn="8" lead="Plain1">M</GateNode>
+            <GateNode x="9" y="0" xSpawn="9" ySpawn="8" lead="Plain1">M</GateNode>
+
+            <GateNode x="9" y="0" xSpawn="1" ySpawn="0" lead="Plain5">M</GateNode>
+            <GateNode x="9" y="1" xSpawn="1" ySpawn="1" lead="Plain5">M</GateNode>
+            <GateNode x="9" y="2" xSpawn="1" ySpawn="2" lead="Plain5">M</GateNode>
+            <GateNode x="9" y="3" xSpawn="1" ySpawn="3" lead="Plain5">M</GateNode>
+            <GateNode x="9" y="4" xSpawn="1" ySpawn="4" lead="Plain5">M</GateNode>
+            <GateNode x="9" y="5" xSpawn="1" ySpawn="5" lead="Plain5">M</GateNode>
+            <GateNode x="9" y="6" xSpawn="1" ySpawn="6" lead="Plain5">M</GateNode>
+            <GateNode x="9" y="7" xSpawn="1" ySpawn="7" lead="Plain5">M</GateNode>
+            <GateNode x="9" y="8" xSpawn="1" ySpawn="8" lead="Plain5">M</GateNode>
+            <GateNode x="9" y="9" xSpawn="1" ySpawn="9" lead="Plain5">M</GateNode>
+
+            <GateNode x="0" y="9" xSpawn="0" ySpawn="1" lead="Plain6">M</GateNode>
+            <GateNode x="1" y="9" xSpawn="1" ySpawn="1" lead="Plain6">M</GateNode>
+            <GateNode x="2" y="9" xSpawn="2" ySpawn="1" lead="Plain6">M</GateNode>
+            <GateNode x="3" y="9" xSpawn="3" ySpawn="1" lead="Plain6">M</GateNode>
+            <GateNode x="4" y="9" xSpawn="4" ySpawn="1" lead="Plain6">M</GateNode>
+            <GateNode x="5" y="9" xSpawn="5" ySpawn="1" lead="Plain6">M</GateNode>
+            <GateNode x="6" y="9" xSpawn="6" ySpawn="1" lead="Plain6">M</GateNode>
+            <GateNode x="7" y="9" xSpawn="7" ySpawn="1" lead="Plain6">M</GateNode>
+            <GateNode x="8" y="9" xSpawn="8" ySpawn="1" lead="Plain6">M</GateNode>
+            <GateNode x="9" y="9" xSpawn="9" ySpawn="1" lead="Plain6">M</GateNode>
+        </Foreground>
+        <Background biome="GRASS"></Background>
+    </World>
+    <World name="Plain2" size="10">
+        <Foreground>
+            <GateNode x="0" y="0" xSpawn="8" ySpawn="0" lead="Plain1">M</GateNode>
+            <GateNode x="0" y="1" xSpawn="8" ySpawn="1" lead="Plain1">M</GateNode>
+            <GateNode x="0" y="2" xSpawn="8" ySpawn="2" lead="Plain1">M</GateNode>
+            <GateNode x="0" y="3" xSpawn="8" ySpawn="3" lead="Plain1">M</GateNode>
+            <GateNode x="0" y="4" xSpawn="8" ySpawn="4" lead="Plain1">M</GateNode>
+            <GateNode x="0" y="5" xSpawn="8" ySpawn="5" lead="Plain1">M</GateNode>
+            <GateNode x="0" y="6" xSpawn="8" ySpawn="6" lead="Plain1">M</GateNode>
+            <GateNode x="0" y="7" xSpawn="8" ySpawn="7" lead="Plain1">M</GateNode>
+            <GateNode x="0" y="8" xSpawn="8" ySpawn="8" lead="Plain1">M</GateNode>
+            <GateNode x="0" y="9" xSpawn="8" ySpawn="9" lead="Plain1">M</GateNode>
+
+            <GateNode x="9" y="0" xSpawn="1" ySpawn="0" lead="Plain3">M</GateNode>
+            <GateNode x="9" y="1" xSpawn="1" ySpawn="1" lead="Plain3">M</GateNode>
+            <GateNode x="9" y="2" xSpawn="1" ySpawn="2" lead="Plain3">M</GateNode>
+            <GateNode x="9" y="3" xSpawn="1" ySpawn="3" lead="Plain3">M</GateNode>
+            <GateNode x="9" y="4" xSpawn="1" ySpawn="4" lead="Plain3">M</GateNode>
+            <GateNode x="9" y="5" xSpawn="1" ySpawn="5" lead="Plain3">M</GateNode>
+            <GateNode x="9" y="6" xSpawn="1" ySpawn="6" lead="Plain3">M</GateNode>
+            <GateNode x="9" y="7" xSpawn="1" ySpawn="7" lead="Plain3">M</GateNode>
+            <GateNode x="9" y="8" xSpawn="1" ySpawn="8" lead="Plain3">M</GateNode>
+            <GateNode x="9" y="9" xSpawn="1" ySpawn="9" lead="Plain3">M</GateNode>
+
+            <GateNode x="0" y="9" xSpawn="0" ySpawn="1" lead="Plain5">M</GateNode>
+            <GateNode x="1" y="9" xSpawn="1" ySpawn="1" lead="Plain5">M</GateNode>
+            <GateNode x="2" y="9" xSpawn="2" ySpawn="1" lead="Plain5">M</GateNode>
+            <GateNode x="3" y="9" xSpawn="3" ySpawn="1" lead="Plain5">M</GateNode>
+            <GateNode x="4" y="9" xSpawn="4" ySpawn="1" lead="Plain5">M</GateNode>
+            <GateNode x="5" y="9" xSpawn="5" ySpawn="1" lead="Plain5">M</GateNode>
+            <GateNode x="6" y="9" xSpawn="6" ySpawn="1" lead="Plain5">M</GateNode>
+            <GateNode x="7" y="9" xSpawn="7" ySpawn="1" lead="Plain5">M</GateNode>
+            <GateNode x="8" y="9" xSpawn="8" ySpawn="1" lead="Plain5">M</GateNode>
+            <GateNode x="9" y="9" xSpawn="9" ySpawn="1" lead="Plain5">M</GateNode>
+        </Foreground>
+        <Background biome="GRASS"></Background>
+    </World>
+    <World name="Plain3" size="10">
+        <Foreground>
+            <GateNode x="0" y="0" xSpawn="8" ySpawn="0" lead="Plain2">M</GateNode>
+            <GateNode x="0" y="1" xSpawn="8" ySpawn="1" lead="Plain2">M</GateNode>
+            <GateNode x="0" y="2" xSpawn="8" ySpawn="2" lead="Plain2">M</GateNode>
+            <GateNode x="0" y="3" xSpawn="8" ySpawn="3" lead="Plain2">M</GateNode>
+            <GateNode x="0" y="4" xSpawn="8" ySpawn="4" lead="Plain2">M</GateNode>
+            <GateNode x="0" y="5" xSpawn="8" ySpawn="5" lead="Plain2">M</GateNode>
+            <GateNode x="0" y="6" xSpawn="8" ySpawn="6" lead="Plain2">M</GateNode>
+            <GateNode x="0" y="7" xSpawn="8" ySpawn="7" lead="Plain2">M</GateNode>
+            <GateNode x="0" y="8" xSpawn="8" ySpawn="8" lead="Plain2">M</GateNode>
+            <GateNode x="0" y="9" xSpawn="8" ySpawn="9" lead="Plain2">M</GateNode>
+
+            <GateNode x="9" y="0" xSpawn="1" ySpawn="0" lead="Desert1">M</GateNode>
+            <GateNode x="9" y="1" xSpawn="1" ySpawn="1" lead="Desert1">M</GateNode>
+            <GateNode x="9" y="2" xSpawn="1" ySpawn="2" lead="Desert1">M</GateNode>
+            <GateNode x="9" y="3" xSpawn="1" ySpawn="3" lead="Desert1">M</GateNode>
+            <GateNode x="9" y="4" xSpawn="1" ySpawn="4" lead="Desert1">M</GateNode>
+            <GateNode x="9" y="5" xSpawn="1" ySpawn="5" lead="Desert1">M</GateNode>
+            <GateNode x="9" y="6" xSpawn="1" ySpawn="6" lead="Desert1">M</GateNode>
+            <GateNode x="9" y="7" xSpawn="1" ySpawn="7" lead="Desert1">M</GateNode>
+            <GateNode x="9" y="8" xSpawn="1" ySpawn="8" lead="Desert1">M</GateNode>
+            <GateNode x="9" y="9" xSpawn="1" ySpawn="9" lead="Desert1">M</GateNode>
+
+            <GateNode x="0" y="9" xSpawn="0" ySpawn="1" lead="Desert2">M</GateNode>
+            <GateNode x="1" y="9" xSpawn="1" ySpawn="1" lead="Desert2">M</GateNode>
+            <GateNode x="2" y="9" xSpawn="2" ySpawn="1" lead="Desert2">M</GateNode>
+            <GateNode x="3" y="9" xSpawn="3" ySpawn="1" lead="Desert2">M</GateNode>
+            <GateNode x="4" y="9" xSpawn="4" ySpawn="1" lead="Desert2">M</GateNode>
+            <GateNode x="5" y="9" xSpawn="5" ySpawn="1" lead="Desert2">M</GateNode>
+            <GateNode x="6" y="9" xSpawn="6" ySpawn="1" lead="Desert2">M</GateNode>
+            <GateNode x="7" y="9" xSpawn="7" ySpawn="1" lead="Desert2">M</GateNode>
+            <GateNode x="8" y="9" xSpawn="8" ySpawn="1" lead="Desert2">M</GateNode>
+            <GateNode x="9" y="9" xSpawn="9" ySpawn="1" lead="Desert2">M</GateNode>
+        </Foreground>
+        <Background biome="GRASS"></Background>
+    </World>
+    <World name="Plain5" size="10">
+        <Foreground>
+            <GateNode x="0" y="0" xSpawn="8" ySpawn="0" lead="Plain4">M</GateNode>
+            <GateNode x="0" y="1" xSpawn="8" ySpawn="1" lead="Plain4">M</GateNode>
+            <GateNode x="0" y="2" xSpawn="8" ySpawn="2" lead="Plain4">M</GateNode>
+            <GateNode x="0" y="3" xSpawn="8" ySpawn="3" lead="Plain4">M</GateNode>
+            <GateNode x="0" y="4" xSpawn="8" ySpawn="4" lead="Plain4">M</GateNode>
+            <GateNode x="0" y="5" xSpawn="8" ySpawn="5" lead="Plain4">M</GateNode>
+            <GateNode x="0" y="6" xSpawn="8" ySpawn="6" lead="Plain4">M</GateNode>
+            <GateNode x="0" y="7" xSpawn="8" ySpawn="7" lead="Plain4">M</GateNode>
+            <GateNode x="0" y="8" xSpawn="8" ySpawn="8" lead="Plain4">M</GateNode>
+            <GateNode x="0" y="9" xSpawn="8" ySpawn="9" lead="Plain4">M</GateNode>
+
+            <GateNode x="9" y="0" xSpawn="1" ySpawn="0" lead="Desert2">M</GateNode>
+            <GateNode x="9" y="1" xSpawn="1" ySpawn="1" lead="Desert2">M</GateNode>
+            <GateNode x="9" y="2" xSpawn="1" ySpawn="2" lead="Desert2">M</GateNode>
+            <GateNode x="9" y="3" xSpawn="1" ySpawn="3" lead="Desert2">M</GateNode>
+            <GateNode x="9" y="4" xSpawn="1" ySpawn="4" lead="Desert2">M</GateNode>
+            <GateNode x="9" y="5" xSpawn="1" ySpawn="5" lead="Desert2">M</GateNode>
+            <GateNode x="9" y="6" xSpawn="1" ySpawn="6" lead="Desert2">M</GateNode>
+            <GateNode x="9" y="7" xSpawn="1" ySpawn="7" lead="Desert2">M</GateNode>
+            <GateNode x="9" y="8" xSpawn="1" ySpawn="8" lead="Desert2">M</GateNode>
+            <GateNode x="9" y="9" xSpawn="1" ySpawn="9" lead="Desert2">M</GateNode>
+
+            <GateNode x="0" y="9" xSpawn="0" ySpawn="1" lead="Plain7">M</GateNode>
+            <GateNode x="1" y="9" xSpawn="1" ySpawn="1" lead="Plain7">M</GateNode>
+            <GateNode x="2" y="9" xSpawn="2" ySpawn="1" lead="Plain7">M</GateNode>
+            <GateNode x="3" y="9" xSpawn="3" ySpawn="1" lead="Plain7">M</GateNode>
+            <GateNode x="4" y="9" xSpawn="4" ySpawn="1" lead="Plain7">M</GateNode>
+            <GateNode x="5" y="9" xSpawn="5" ySpawn="1" lead="Plain7">M</GateNode>
+            <GateNode x="6" y="9" xSpawn="6" ySpawn="1" lead="Plain7">M</GateNode>
+            <GateNode x="7" y="9" xSpawn="7" ySpawn="1" lead="Plain7">M</GateNode>
+            <GateNode x="8" y="9" xSpawn="8" ySpawn="1" lead="Plain7">M</GateNode>
+            <GateNode x="9" y="9" xSpawn="9" ySpawn="1" lead="Plain7">M</GateNode>
+
+            <GateNode x="0" y="0" xSpawn="0" ySpawn="8" lead="Plain2">M</GateNode>
+            <GateNode x="1" y="0" xSpawn="1" ySpawn="8" lead="Plain2">M</GateNode>
+            <GateNode x="2" y="0" xSpawn="2" ySpawn="8" lead="Plain2">M</GateNode>
+            <GateNode x="3" y="0" xSpawn="3" ySpawn="8" lead="Plain2">M</GateNode>
+            <GateNode x="4" y="0" xSpawn="4" ySpawn="8" lead="Plain2">M</GateNode>
+            <GateNode x="5" y="0" xSpawn="5" ySpawn="8" lead="Plain2">M</GateNode>
+            <GateNode x="6" y="0" xSpawn="6" ySpawn="8" lead="Plain2">M</GateNode>
+            <GateNode x="7" y="0" xSpawn="7" ySpawn="8" lead="Plain2">M</GateNode>
+            <GateNode x="8" y="0" xSpawn="8" ySpawn="8" lead="Plain2">M</GateNode>
+            <GateNode x="9" y="0" xSpawn="9" ySpawn="8" lead="Plain2">M</GateNode>
+        </Foreground>
+        <Background biome="GRASS"></Background>
+    </World>
+    <World name="Plain6" size="10">
+        <Foreground>
+            <GateNode x="9" y="0" xSpawn="1" ySpawn="0" lead="Plain7">M</GateNode>
+            <GateNode x="9" y="1" xSpawn="1" ySpawn="1" lead="Plain7">M</GateNode>
+            <GateNode x="9" y="2" xSpawn="1" ySpawn="2" lead="Plain7">M</GateNode>
+            <GateNode x="9" y="3" xSpawn="1" ySpawn="3" lead="Plain7">M</GateNode>
+            <GateNode x="9" y="4" xSpawn="1" ySpawn="4" lead="Plain7">M</GateNode>
+            <GateNode x="9" y="5" xSpawn="1" ySpawn="5" lead="Plain7">M</GateNode>
+            <GateNode x="9" y="6" xSpawn="1" ySpawn="6" lead="Plain7">M</GateNode>
+            <GateNode x="9" y="7" xSpawn="1" ySpawn="7" lead="Plain7">M</GateNode>
+            <GateNode x="9" y="8" xSpawn="1" ySpawn="8" lead="Plain7">M</GateNode>
+            <GateNode x="9" y="9" xSpawn="1" ySpawn="9" lead="Plain7">M</GateNode>
+
+            <GateNode x="0" y="9" xSpawn="0" ySpawn="1" lead="Forest1">M</GateNode>
+            <GateNode x="1" y="9" xSpawn="1" ySpawn="1" lead="Forest1">M</GateNode>
+            <GateNode x="2" y="9" xSpawn="2" ySpawn="1" lead="Forest1">M</GateNode>
+            <GateNode x="3" y="9" xSpawn="3" ySpawn="1" lead="Forest1">M</GateNode>
+            <GateNode x="4" y="9" xSpawn="4" ySpawn="1" lead="Forest1">M</GateNode>
+            <GateNode x="5" y="9" xSpawn="5" ySpawn="1" lead="Forest1">M</GateNode>
+            <GateNode x="6" y="9" xSpawn="6" ySpawn="1" lead="Forest1">M</GateNode>
+            <GateNode x="7" y="9" xSpawn="7" ySpawn="1" lead="Forest1">M</GateNode>
+            <GateNode x="8" y="9" xSpawn="8" ySpawn="1" lead="Forest1">M</GateNode>
+            <GateNode x="9" y="9" xSpawn="9" ySpawn="1" lead="Forest1">M</GateNode>
+
+            <GateNode x="0" y="0" xSpawn="0" ySpawn="8" lead="Plain4">M</GateNode>
+            <GateNode x="1" y="0" xSpawn="1" ySpawn="8" lead="Plain4">M</GateNode>
+            <GateNode x="2" y="0" xSpawn="2" ySpawn="8" lead="Plain4">M</GateNode>
+            <GateNode x="3" y="0" xSpawn="3" ySpawn="8" lead="Plain4">M</GateNode>
+            <GateNode x="4" y="0" xSpawn="4" ySpawn="8" lead="Plain4">M</GateNode>
+            <GateNode x="5" y="0" xSpawn="5" ySpawn="8" lead="Plain4">M</GateNode>
+            <GateNode x="6" y="0" xSpawn="6" ySpawn="8" lead="Plain4">M</GateNode>
+            <GateNode x="7" y="0" xSpawn="7" ySpawn="8" lead="Plain4">M</GateNode>
+            <GateNode x="8" y="0" xSpawn="8" ySpawn="8" lead="Plain4">M</GateNode>
+            <GateNode x="9" y="0" xSpawn="9" ySpawn="8" lead="Plain4">M</GateNode>
+        </Foreground>
+        <Background biome="GRASS"></Background>
+    </World>
+    <World name="Plain7" size="10">
+        <Foreground>
+            <GateNode x="0" y="0" xSpawn="8" ySpawn="0" lead="Plain6">M</GateNode>
+            <GateNode x="0" y="1" xSpawn="8" ySpawn="1" lead="Plain6">M</GateNode>
+            <GateNode x="0" y="2" xSpawn="8" ySpawn="2" lead="Plain6">M</GateNode>
+            <GateNode x="0" y="3" xSpawn="8" ySpawn="3" lead="Plain6">M</GateNode>
+            <GateNode x="0" y="4" xSpawn="8" ySpawn="4" lead="Plain6">M</GateNode>
+            <GateNode x="0" y="5" xSpawn="8" ySpawn="5" lead="Plain6">M</GateNode>
+            <GateNode x="0" y="6" xSpawn="8" ySpawn="6" lead="Plain6">M</GateNode>
+            <GateNode x="0" y="7" xSpawn="8" ySpawn="7" lead="Plain6">M</GateNode>
+            <GateNode x="0" y="8" xSpawn="8" ySpawn="8" lead="Plain6">M</GateNode>
+
+            <GateNode x="4" y="9" xSpawn="4" ySpawn="1" lead="Village">M</GateNode>
+            <GateNode x="5" y="9" xSpawn="5" ySpawn="1" lead="Village">M</GateNode>
+
+            <GateNode x="0" y="0" xSpawn="0" ySpawn="8" lead="Plain5">M</GateNode>
+            <GateNode x="1" y="0" xSpawn="1" ySpawn="8" lead="Plain5">M</GateNode>
+            <GateNode x="2" y="0" xSpawn="2" ySpawn="8" lead="Plain5">M</GateNode>
+            <GateNode x="3" y="0" xSpawn="3" ySpawn="8" lead="Plain5">M</GateNode>
+            <GateNode x="4" y="0" xSpawn="4" ySpawn="8" lead="Plain5">M</GateNode>
+            <GateNode x="5" y="0" xSpawn="5" ySpawn="8" lead="Plain5">M</GateNode>
+            <GateNode x="6" y="0" xSpawn="6" ySpawn="8" lead="Plain5">M</GateNode>
+            <GateNode x="7" y="0" xSpawn="7" ySpawn="8" lead="Plain5">M</GateNode>
+            <GateNode x="8" y="0" xSpawn="8" ySpawn="8" lead="Plain5">M</GateNode>
+        </Foreground>
+        <Background biome="GRASS"></Background>
+    </World>
+    <World name="Forest1" size="10">
+        <Foreground>
+            <GateNode x="9" y="4" xSpawn="1" ySpawn="4" lead="Village">M</GateNode>
+            <GateNode x="9" y="5" xSpawn="1" ySpawn="5" lead="Village">M</GateNode>
+
+            <GateNode x="0" y="9" xSpawn="0" ySpawn="1" lead="Forest2">M</GateNode>
+            <GateNode x="1" y="9" xSpawn="1" ySpawn="1" lead="Forest2">M</GateNode>
+            <GateNode x="2" y="9" xSpawn="2" ySpawn="1" lead="Forest2">M</GateNode>
+            <GateNode x="3" y="9" xSpawn="3" ySpawn="1" lead="Forest2">M</GateNode>
+            <GateNode x="4" y="9" xSpawn="4" ySpawn="1" lead="Forest2">M</GateNode>
+            <GateNode x="5" y="9" xSpawn="5" ySpawn="1" lead="Forest2">M</GateNode>
+            <GateNode x="6" y="9" xSpawn="6" ySpawn="1" lead="Forest2">M</GateNode>
+            <GateNode x="7" y="9" xSpawn="7" ySpawn="1" lead="Forest2">M</GateNode>
+            <GateNode x="8" y="9" xSpawn="8" ySpawn="1" lead="Forest2">M</GateNode>
+
+            <GateNode x="0" y="0" xSpawn="0" ySpawn="8" lead="Plain6">M</GateNode>
+            <GateNode x="1" y="0" xSpawn="1" ySpawn="8" lead="Plain6">M</GateNode>
+            <GateNode x="2" y="0" xSpawn="2" ySpawn="8" lead="Plain6">M</GateNode>
+            <GateNode x="3" y="0" xSpawn="3" ySpawn="8" lead="Plain6">M</GateNode>
+            <GateNode x="4" y="0" xSpawn="4" ySpawn="8" lead="Plain6">M</GateNode>
+            <GateNode x="5" y="0" xSpawn="5" ySpawn="8" lead="Plain6">M</GateNode>
+            <GateNode x="6" y="0" xSpawn="6" ySpawn="8" lead="Plain6">M</GateNode>
+            <GateNode x="7" y="0" xSpawn="7" ySpawn="8" lead="Plain6">M</GateNode>
+            <GateNode x="8" y="0" xSpawn="8" ySpawn="8" lead="Plain6">M</GateNode>
+        </Foreground>
+        <Background biome="FOREST"></Background>
+    </World>
+    <World name="Forest2" size="10">
+        <Foreground>
+            <GateNode x="9" y="0" xSpawn="1" ySpawn="0" lead="Forest3">M</GateNode>
+            <GateNode x="9" y="1" xSpawn="1" ySpawn="1" lead="Forest3">M</GateNode>
+            <GateNode x="9" y="2" xSpawn="1" ySpawn="2" lead="Forest3">M</GateNode>
+            <GateNode x="9" y="3" xSpawn="1" ySpawn="3" lead="Forest3">M</GateNode>
+            <GateNode x="9" y="4" xSpawn="1" ySpawn="4" lead="Forest3">M</GateNode>
+            <GateNode x="9" y="5" xSpawn="1" ySpawn="5" lead="Forest3">M</GateNode>
+            <GateNode x="9" y="6" xSpawn="1" ySpawn="6" lead="Forest3">M</GateNode>
+            <GateNode x="9" y="7" xSpawn="1" ySpawn="7" lead="Forest3">M</GateNode>
+            <GateNode x="9" y="8" xSpawn="1" ySpawn="8" lead="Forest3">M</GateNode>
+            <GateNode x="9" y="9" xSpawn="1" ySpawn="9" lead="Forest3">M</GateNode>
+
+            <GateNode x="0" y="0" xSpawn="0" ySpawn="8" lead="Forest1">M</GateNode>
+            <GateNode x="1" y="0" xSpawn="1" ySpawn="8" lead="Forest1">M</GateNode>
+            <GateNode x="2" y="0" xSpawn="2" ySpawn="8" lead="Forest1">M</GateNode>
+            <GateNode x="3" y="0" xSpawn="3" ySpawn="8" lead="Forest1">M</GateNode>
+            <GateNode x="4" y="0" xSpawn="4" ySpawn="8" lead="Forest1">M</GateNode>
+            <GateNode x="5" y="0" xSpawn="5" ySpawn="8" lead="Forest1">M</GateNode>
+            <GateNode x="6" y="0" xSpawn="6" ySpawn="8" lead="Forest1">M</GateNode>
+            <GateNode x="7" y="0" xSpawn="7" ySpawn="8" lead="Forest1">M</GateNode>
+            <GateNode x="8" y="0" xSpawn="8" ySpawn="8" lead="Forest1">M</GateNode>
+            <GateNode x="9" y="0" xSpawn="9" ySpawn="8" lead="Forest1">M</GateNode>
+        </Foreground>
+        <Background biome="FOREST"></Background>
+    </World>
+    <World name="Forest3" size="10">
+        <Foreground>
+            <GateNode x="0" y="0" xSpawn="8" ySpawn="0" lead="Forest2">M</GateNode>
+            <GateNode x="0" y="1" xSpawn="8" ySpawn="1" lead="Forest2">M</GateNode>
+            <GateNode x="0" y="2" xSpawn="8" ySpawn="2" lead="Forest2">M</GateNode>
+            <GateNode x="0" y="3" xSpawn="8" ySpawn="3" lead="Forest2">M</GateNode>
+            <GateNode x="0" y="4" xSpawn="8" ySpawn="4" lead="Forest2">M</GateNode>
+            <GateNode x="0" y="5" xSpawn="8" ySpawn="5" lead="Forest2">M</GateNode>
+            <GateNode x="0" y="6" xSpawn="8" ySpawn="6" lead="Forest2">M</GateNode>
+            <GateNode x="0" y="7" xSpawn="8" ySpawn="7" lead="Forest2">M</GateNode>
+            <GateNode x="0" y="8" xSpawn="8" ySpawn="8" lead="Forest2">M</GateNode>
+
+            <GateNode x="9" y="0" xSpawn="1" ySpawn="0" lead="Forest4">M</GateNode>
+            <GateNode x="9" y="1" xSpawn="1" ySpawn="1" lead="Forest4">M</GateNode>
+            <GateNode x="9" y="2" xSpawn="1" ySpawn="2" lead="Forest4">M</GateNode>
+            <GateNode x="9" y="3" xSpawn="1" ySpawn="3" lead="Forest4">M</GateNode>
+            <GateNode x="9" y="4" xSpawn="1" ySpawn="4" lead="Forest4">M</GateNode>
+            <GateNode x="9" y="5" xSpawn="1" ySpawn="5" lead="Forest4">M</GateNode>
+            <GateNode x="9" y="6" xSpawn="1" ySpawn="6" lead="Forest4">M</GateNode>
+            <GateNode x="9" y="7" xSpawn="1" ySpawn="7" lead="Forest4">M</GateNode>
+            <GateNode x="9" y="8" xSpawn="1" ySpawn="8" lead="Forest4">M</GateNode>
+            <GateNode x="9" y="9" xSpawn="1" ySpawn="9" lead="Forest4">M</GateNode>
+
+            <GateNode x="4" y="0" xSpawn="4" ySpawn="8" lead="Village">M</GateNode>
+            <GateNode x="5" y="0" xSpawn="5" ySpawn="8" lead="Village">M</GateNode>
+        </Foreground>
+        <Background biome="FOREST"></Background>
+    </World>
+    <World name="Forest4" size="10">
+        <Foreground>
+            <GateNode x="0" y="0" xSpawn="8" ySpawn="0" lead="Forest3">M</GateNode>
+            <GateNode x="0" y="1" xSpawn="8" ySpawn="1" lead="Forest3">M</GateNode>
+            <GateNode x="0" y="2" xSpawn="8" ySpawn="2" lead="Forest3">M</GateNode>
+            <GateNode x="0" y="3" xSpawn="8" ySpawn="3" lead="Forest3">M</GateNode>
+            <GateNode x="0" y="4" xSpawn="8" ySpawn="4" lead="Forest3">M</GateNode>
+            <GateNode x="0" y="5" xSpawn="8" ySpawn="5" lead="Forest3">M</GateNode>
+            <GateNode x="0" y="6" xSpawn="8" ySpawn="6" lead="Forest3">M</GateNode>
+            <GateNode x="0" y="7" xSpawn="8" ySpawn="7" lead="Forest3">M</GateNode>
+            <GateNode x="0" y="8" xSpawn="8" ySpawn="8" lead="Forest3">M</GateNode>
+            <GateNode x="0" y="9" xSpawn="8" ySpawn="9" lead="Forest3">M</GateNode>
+        </Foreground>
+        <Background biome="FOREST"></Background>
+    </World>
+    <World name="Desert1" size="10">
+        <Foreground>
+            <GateNode x="0" y="0" xSpawn="8" ySpawn="0" lead="Plain3">M</GateNode>
+            <GateNode x="0" y="1" xSpawn="8" ySpawn="1" lead="Plain3">M</GateNode>
+            <GateNode x="0" y="2" xSpawn="8" ySpawn="2" lead="Plain3">M</GateNode>
+            <GateNode x="0" y="3" xSpawn="8" ySpawn="3" lead="Plain3">M</GateNode>
+            <GateNode x="0" y="4" xSpawn="8" ySpawn="4" lead="Plain3">M</GateNode>
+            <GateNode x="0" y="5" xSpawn="8" ySpawn="5" lead="Plain3">M</GateNode>
+            <GateNode x="0" y="6" xSpawn="8" ySpawn="6" lead="Plain3">M</GateNode>
+            <GateNode x="0" y="7" xSpawn="8" ySpawn="7" lead="Plain3">M</GateNode>
+            <GateNode x="0" y="8" xSpawn="8" ySpawn="8" lead="Plain3">M</GateNode>
+            <GateNode x="0" y="9" xSpawn="8" ySpawn="9" lead="Plain3">M</GateNode>
+
+            <GateNode x="9" y="4" xSpawn="8" ySpawn="4" lead="Dungeon1">M</GateNode>
+            <GateNode x="9" y="5" xSpawn="8" ySpawn="5" lead="Dungeon1">M</GateNode>
+
+            <GateNode x="0" y="9" xSpawn="0" ySpawn="1" lead="Desert3">M</GateNode>
+            <GateNode x="1" y="9" xSpawn="1" ySpawn="1" lead="Desert3">M</GateNode>
+            <GateNode x="2" y="9" xSpawn="2" ySpawn="1" lead="Desert3">M</GateNode>
+            <GateNode x="3" y="9" xSpawn="3" ySpawn="1" lead="Desert3">M</GateNode>
+            <GateNode x="4" y="9" xSpawn="4" ySpawn="1" lead="Desert3">M</GateNode>
+            <GateNode x="5" y="9" xSpawn="5" ySpawn="1" lead="Desert3">M</GateNode>
+            <GateNode x="6" y="9" xSpawn="6" ySpawn="1" lead="Desert3">M</GateNode>
+            <GateNode x="7" y="9" xSpawn="7" ySpawn="1" lead="Desert3">M</GateNode>
+            <GateNode x="8" y="9" xSpawn="8" ySpawn="1" lead="Desert3">M</GateNode>
+        </Foreground>
+        <Background biome="DESERT"></Background>
+    </World>
+    <World name="Desert2" size="10">
+        <Foreground>
+            <GateNode x="0" y="0" xSpawn="8" ySpawn="0" lead="Plain5">M</GateNode>
+            <GateNode x="0" y="1" xSpawn="8" ySpawn="1" lead="Plain5">M</GateNode>
+            <GateNode x="0" y="2" xSpawn="8" ySpawn="2" lead="Plain5">M</GateNode>
+            <GateNode x="0" y="3" xSpawn="8" ySpawn="3" lead="Plain5">M</GateNode>
+            <GateNode x="0" y="4" xSpawn="8" ySpawn="4" lead="Plain5">M</GateNode>
+            <GateNode x="0" y="5" xSpawn="8" ySpawn="5" lead="Plain5">M</GateNode>
+            <GateNode x="0" y="6" xSpawn="8" ySpawn="6" lead="Plain5">M</GateNode>
+            <GateNode x="0" y="7" xSpawn="8" ySpawn="7" lead="Plain5">M</GateNode>
+            <GateNode x="0" y="8" xSpawn="8" ySpawn="8" lead="Plain5">M</GateNode>
+
+            <GateNode x="9" y="0" xSpawn="1" ySpawn="0" lead="Desert3">M</GateNode>
+            <GateNode x="9" y="1" xSpawn="1" ySpawn="1" lead="Desert3">M</GateNode>
+            <GateNode x="9" y="2" xSpawn="1" ySpawn="2" lead="Desert3">M</GateNode>
+            <GateNode x="9" y="3" xSpawn="1" ySpawn="3" lead="Desert3">M</GateNode>
+            <GateNode x="9" y="4" xSpawn="1" ySpawn="4" lead="Desert3">M</GateNode>
+            <GateNode x="9" y="5" xSpawn="1" ySpawn="5" lead="Desert3">M</GateNode>
+            <GateNode x="9" y="6" xSpawn="1" ySpawn="6" lead="Desert3">M</GateNode>
+            <GateNode x="9" y="7" xSpawn="1" ySpawn="7" lead="Desert3">M</GateNode>
+            <GateNode x="9" y="8" xSpawn="1" ySpawn="8" lead="Desert3">M</GateNode>
+            <GateNode x="9" y="9" xSpawn="1" ySpawn="9" lead="Desert3">M</GateNode>
+
+            <GateNode x="0" y="0" xSpawn="0" ySpawn="8" lead="Plain3">M</GateNode>
+            <GateNode x="1" y="0" xSpawn="1" ySpawn="8" lead="Plain3">M</GateNode>
+            <GateNode x="2" y="0" xSpawn="2" ySpawn="8" lead="Plain3">M</GateNode>
+            <GateNode x="3" y="0" xSpawn="3" ySpawn="8" lead="Plain3">M</GateNode>
+            <GateNode x="4" y="0" xSpawn="4" ySpawn="8" lead="Plain3">M</GateNode>
+            <GateNode x="5" y="0" xSpawn="5" ySpawn="8" lead="Plain3">M</GateNode>
+            <GateNode x="6" y="0" xSpawn="6" ySpawn="8" lead="Plain3">M</GateNode>
+            <GateNode x="7" y="0" xSpawn="7" ySpawn="8" lead="Plain3">M</GateNode>
+            <GateNode x="8" y="0" xSpawn="8" ySpawn="8" lead="Plain3">M</GateNode>
+            <GateNode x="9" y="0" xSpawn="9" ySpawn="8" lead="Plain3">M</GateNode>
+        </Foreground>
+        <Background biome="DESERT"></Background>
+    </World>
+    <World name="Desert3" size="10">
+        <Foreground>
+            <GateNode x="0" y="0" xSpawn="8" ySpawn="0" lead="Desert2">M</GateNode>
+            <GateNode x="0" y="1" xSpawn="8" ySpawn="1" lead="Desert2">M</GateNode>
+            <GateNode x="0" y="2" xSpawn="8" ySpawn="2" lead="Desert2">M</GateNode>
+            <GateNode x="0" y="3" xSpawn="8" ySpawn="3" lead="Desert2">M</GateNode>
+            <GateNode x="0" y="4" xSpawn="8" ySpawn="4" lead="Desert2">M</GateNode>
+            <GateNode x="0" y="5" xSpawn="8" ySpawn="5" lead="Desert2">M</GateNode>
+            <GateNode x="0" y="6" xSpawn="8" ySpawn="6" lead="Desert2">M</GateNode>
+            <GateNode x="0" y="7" xSpawn="8" ySpawn="7" lead="Desert2">M</GateNode>
+            <GateNode x="0" y="8" xSpawn="8" ySpawn="8" lead="Desert2">M</GateNode>
+            <GateNode x="0" y="9" xSpawn="8" ySpawn="9" lead="Desert2">M</GateNode>
+
+            <GateNode x="9" y="0" xSpawn="1" ySpawn="0" lead="Desert4">M</GateNode>
+            <GateNode x="9" y="1" xSpawn="1" ySpawn="1" lead="Desert4">M</GateNode>
+            <GateNode x="9" y="2" xSpawn="1" ySpawn="2" lead="Desert4">M</GateNode>
+            <GateNode x="9" y="3" xSpawn="1" ySpawn="3" lead="Desert4">M</GateNode>
+            <GateNode x="9" y="4" xSpawn="1" ySpawn="4" lead="Desert4">M</GateNode>
+            <GateNode x="9" y="5" xSpawn="1" ySpawn="5" lead="Desert4">M</GateNode>
+            <GateNode x="9" y="6" xSpawn="1" ySpawn="6" lead="Desert4">M</GateNode>
+            <GateNode x="9" y="7" xSpawn="1" ySpawn="7" lead="Desert4">M</GateNode>
+            <GateNode x="9" y="8" xSpawn="1" ySpawn="8" lead="Desert4">M</GateNode>
+            <GateNode x="9" y="9" xSpawn="1" ySpawn="9" lead="Desert4">M</GateNode>
+
+            <GateNode x="0" y="0" xSpawn="0" ySpawn="8" lead="Desert1">M</GateNode>
+            <GateNode x="1" y="0" xSpawn="1" ySpawn="8" lead="Desert1">M</GateNode>
+            <GateNode x="2" y="0" xSpawn="2" ySpawn="8" lead="Desert1">M</GateNode>
+            <GateNode x="3" y="0" xSpawn="3" ySpawn="8" lead="Desert1">M</GateNode>
+            <GateNode x="4" y="0" xSpawn="4" ySpawn="8" lead="Desert1">M</GateNode>
+            <GateNode x="5" y="0" xSpawn="5" ySpawn="8" lead="Desert1">M</GateNode>
+            <GateNode x="6" y="0" xSpawn="6" ySpawn="8" lead="Desert1">M</GateNode>
+            <GateNode x="7" y="0" xSpawn="7" ySpawn="8" lead="Desert1">M</GateNode>
+            <GateNode x="8" y="0" xSpawn="8" ySpawn="8" lead="Desert1">M</GateNode>
+            <GateNode x="9" y="0" xSpawn="9" ySpawn="8" lead="Desert1">M</GateNode>
+        </Foreground>
+        <Background biome="DESERT"></Background>
+    </World>
+    <World name="Desert4" size="10">
+        <Foreground>
+            <GateNode x="0" y="0" xSpawn="8" ySpawn="0" lead="Desert3">M</GateNode>
+            <GateNode x="0" y="1" xSpawn="8" ySpawn="1" lead="Desert3">M</GateNode>
+            <GateNode x="0" y="2" xSpawn="8" ySpawn="2" lead="Desert3">M</GateNode>
+            <GateNode x="0" y="3" xSpawn="8" ySpawn="3" lead="Desert3">M</GateNode>
+            <GateNode x="0" y="4" xSpawn="8" ySpawn="4" lead="Desert3">M</GateNode>
+            <GateNode x="0" y="5" xSpawn="8" ySpawn="5" lead="Desert3">M</GateNode>
+            <GateNode x="0" y="6" xSpawn="8" ySpawn="6" lead="Desert3">M</GateNode>
+            <GateNode x="0" y="7" xSpawn="8" ySpawn="7" lead="Desert3">M</GateNode>
+            <GateNode x="0" y="8" xSpawn="8" ySpawn="8" lead="Desert3">M</GateNode>
+            <GateNode x="0" y="9" xSpawn="8" ySpawn="9" lead="Desert3">M</GateNode>
+
+            <GateNode x="4" y="0" xSpawn="8" ySpawn="4" lead="Dungeon1">M</GateNode>
+            <GateNode x="5" y="0" xSpawn="8" ySpawn="5" lead="Dungeon1">M</GateNode>
+
+            <GateNode x="0" y="9" xSpawn="0" ySpawn="1" lead="Desert5">M</GateNode>
+            <GateNode x="1" y="9" xSpawn="1" ySpawn="1" lead="Desert5">M</GateNode>
+            <GateNode x="2" y="9" xSpawn="2" ySpawn="1" lead="Desert5">M</GateNode>
+            <GateNode x="3" y="9" xSpawn="3" ySpawn="1" lead="Desert5">M</GateNode>
+            <GateNode x="4" y="9" xSpawn="4" ySpawn="1" lead="Desert5">M</GateNode>
+            <GateNode x="5" y="9" xSpawn="5" ySpawn="1" lead="Desert5">M</GateNode>
+            <GateNode x="6" y="9" xSpawn="6" ySpawn="1" lead="Desert5">M</GateNode>
+            <GateNode x="7" y="9" xSpawn="7" ySpawn="1" lead="Desert5">M</GateNode>
+            <GateNode x="8" y="9" xSpawn="8" ySpawn="1" lead="Desert5">M</GateNode>
+            <GateNode x="9" y="9" xSpawn="9" ySpawn="1" lead="Desert5">M</GateNode>
+        </Foreground>
+        <Background biome="DESERT"></Background>
+    </World>
+    <World name="Desert5" size="10">
+        <Foreground>
+            <GateNode x="1" y="0" xSpawn="1" ySpawn="8" lead="Desert4">M</GateNode>
+            <GateNode x="2" y="0" xSpawn="2" ySpawn="8" lead="Desert4">M</GateNode>
+            <GateNode x="3" y="0" xSpawn="3" ySpawn="8" lead="Desert4">M</GateNode>
+            <GateNode x="4" y="0" xSpawn="4" ySpawn="8" lead="Desert4">M</GateNode>
+            <GateNode x="5" y="0" xSpawn="5" ySpawn="8" lead="Desert4">M</GateNode>
+            <GateNode x="6" y="0" xSpawn="6" ySpawn="8" lead="Desert4">M</GateNode>
+            <GateNode x="7" y="0" xSpawn="7" ySpawn="8" lead="Desert4">M</GateNode>
+            <GateNode x="8" y="0" xSpawn="8" ySpawn="8" lead="Desert4">M</GateNode>
+            <GateNode x="9" y="0" xSpawn="9" ySpawn="8" lead="Desert4">M</GateNode>
+        </Foreground>
+        <Background biome="DESERT"></Background>
+    </World>
+    <World name="Dungeon1" size="10">
+        <Foreground>
+            <Node x="0" y="0">W</Node>
+            <Node x="1" y="0">W</Node>
+            <Node x="2" y="0">W</Node>
+            <Node x="3" y="0">W</Node>
+            <Node x="6" y="0">W</Node>
+            <Node x="7" y="0">W</Node>
+            <Node x="8" y="0">W</Node>
+            <Node x="9" y="0">W</Node>
+
+            <Node x="0" y="1">W</Node>
+            <Node x="9" y="1">W</Node>
+
+            <Node x="0" y="2">W</Node>
+            <Node x="9" y="2">W</Node>
+
+            <Node x="0" y="3">W</Node>
+            <Node x="3" y="3">W</Node>
+            <Node x="6" y="3">W</Node>
+            <Node x="7" y="3">W</Node>
+            <Node x="8" y="3">W</Node>
+            <Node x="9" y="3">W</Node>
+
+            <Node x="0" y="4">W</Node>
+            <Node x="3" y="4">W</Node>
+            <Node x="6" y="4">W</Node>
+
+            <Node x="0" y="5">W</Node>
+            <Node x="3" y="5">W</Node>
+            <Node x="6" y="5">W</Node>
+
+            <Node x="0" y="6">W</Node>
+            <Node x="3" y="6">W</Node>
+            <Node x="4" y="6">W</Node>
+            <Node x="5" y="6">W</Node>
+            <Node x="6" y="6">W</Node>
+            <Node x="9" y="6">W</Node>
+
+            <Node x="0" y="7">W</Node>
+            <Node x="9" y="7">W</Node>
+
+            <Node x="0" y="8">W</Node>
+            <Node x="9" y="8">W</Node>
+
+            <Node x="0" y="9">W</Node>
+            <Node x="1" y="9">W</Node>
+            <Node x="2" y="9">W</Node>
+            <Node x="3" y="9">W</Node>
+            <Node x="4" y="9">W</Node>
+            <Node x="5" y="9">W</Node>
+            <Node x="6" y="9">W</Node>
+            <Node x="7" y="9">W</Node>
+            <Node x="8" y="9">W</Node>
+            <Node x="9" y="9">W</Node>
+
+            <GateNode x="9" y="4" xSpawn="4" ySpawn="1" lead="Desert4">M</GateNode>
+            <GateNode x="9" y="5" xSpawn="5" ySpawn="1" lead="Desert4">M</GateNode>
+            <GateNode x="4" y="0" xSpawn="4" ySpawn="8" lead="Dungeon2">M</GateNode>
+            <GateNode x="5" y="0" xSpawn="5" ySpawn="8" lead="Dungeon2">M</GateNode>
+        </Foreground>
+        <Background biome="DUNGEONFLOOR">
+            <Set x="0" y="0">DUNGEONWALL</Set>
+            <Set x="1" y="0">DUNGEONWALL</Set>
+            <Set x="2" y="0">DUNGEONWALL</Set>
+            <Set x="3" y="0">DUNGEONWALL</Set>
+            <Set x="6" y="0">DUNGEONWALL</Set>
+            <Set x="7" y="0">DUNGEONWALL</Set>
+            <Set x="8" y="0">DUNGEONWALL</Set>
+            <Set x="9" y="0">DUNGEONWALL</Set>
+
+            <Set x="0" y="1">DUNGEONWALL</Set>
+            <Set x="9" y="1">DUNGEONWALL</Set>
+
+            <Set x="0" y="2">DUNGEONWALL</Set>
+            <Set x="9" y="2">DUNGEONWALL</Set>
+
+            <Set x="0" y="3">DUNGEONWALL</Set>
+            <Set x="3" y="3">DUNGEONWALL</Set>
+            <Set x="6" y="3">DUNGEONWALL</Set>
+            <Set x="7" y="3">DUNGEONWALL</Set>
+            <Set x="8" y="3">DUNGEONWALL</Set>
+            <Set x="9" y="3">DUNGEONWALL</Set>
+
+            <Set x="0" y="4">DUNGEONWALL</Set>
+            <Set x="3" y="4">DUNGEONWALL</Set>
+            <Set x="6" y="4">DUNGEONWALL</Set>
+
+            <Set x="0" y="5">DUNGEONWALL</Set>
+            <Set x="3" y="5">DUNGEONWALL</Set>
+            <Set x="6" y="5">DUNGEONWALL</Set>
+
+            <Set x="0" y="6">DUNGEONWALL</Set>
+            <Set x="3" y="6">DUNGEONWALL</Set>
+            <Set x="4" y="6">DUNGEONWALL</Set>
+            <Set x="5" y="6">DUNGEONWALL</Set>
+            <Set x="6" y="6">DUNGEONWALL</Set>
+            <Set x="9" y="6">DUNGEONWALL</Set>
+
+            <Set x="0" y="7">DUNGEONWALL</Set>
+            <Set x="9" y="7">DUNGEONWALL</Set>
+
+            <Set x="0" y="8">DUNGEONWALL</Set>
+            <Set x="9" y="8">DUNGEONWALL</Set>
+
+            <Set x="0" y="9">DUNGEONWALL</Set>
+            <Set x="1" y="9">DUNGEONWALL</Set>
+            <Set x="2" y="9">DUNGEONWALL</Set>
+            <Set x="3" y="9">DUNGEONWALL</Set>
+            <Set x="4" y="9">DUNGEONWALL</Set>
+            <Set x="5" y="9">DUNGEONWALL</Set>
+            <Set x="6" y="9">DUNGEONWALL</Set>
+            <Set x="7" y="9">DUNGEONWALL</Set>
+            <Set x="8" y="9">DUNGEONWALL</Set>
+            <Set x="9" y="9">DUNGEONWALL</Set>
+        </Background>
+    </World>
+    <World name="Dungeon2" size="10">
+        <Foreground>
+            <Node x="0" y="0">W</Node>
+            <Node x="1" y="0">W</Node>
+            <Node x="2" y="0">W</Node>
+            <Node x="3" y="0">W</Node>
+            <Node x="4" y="0">W</Node>
+            <Node x="5" y="0">W</Node>
+            <Node x="6" y="0">W</Node>
+            <Node x="7" y="0">W</Node>
+            <Node x="8" y="0">W</Node>
+            <Node x="9" y="0">W</Node>
+
+            <Node x="0" y="1">W</Node>
+            <Node x="9" y="1">W</Node>
+
+            <Node x="0" y="1">W</Node>
+            <Node x="9" y="1">W</Node>
+
+            <Node x="0" y="2">W</Node>
+            <Node x="9" y="2">W</Node>
+
+            <Node x="0" y="3">W</Node>
+            <Node x="9" y="3">W</Node>
+
+            <Node x="0" y="4">W</Node>
+            <Node x="9" y="4">W</Node>
+
+            <Node x="0" y="5">W</Node>
+            <Node x="9" y="5">W</Node>
+
+            <Node x="0" y="6">W</Node>
+            <Node x="9" y="6">W</Node>
+
+            <Node x="0" y="7">W</Node>
+            <Node x="1" y="7">W</Node>
+            <Node x="2" y="7">W</Node>
+            <Node x="3" y="7">W</Node>
+            <Node x="6" y="7">W</Node>
+            <Node x="7" y="7">W</Node>
+            <Node x="8" y="7">W</Node>
+            <Node x="9" y="7">W</Node>
+
+            <Node x="0" y="8">W</Node>
+            <Node x="1" y="8">W</Node>
+            <Node x="2" y="8">W</Node>
+            <Node x="3" y="8">W</Node>
+            <Node x="6" y="8">W</Node>
+            <Node x="7" y="8">W</Node>
+            <Node x="8" y="8">W</Node>
+            <Node x="9" y="8">W</Node>
+
+            <Node x="0" y="9">W</Node>
+            <Node x="1" y="9">W</Node>
+            <Node x="2" y="9">W</Node>
+            <Node x="3" y="9">W</Node>
+            <Node x="6" y="9">W</Node>
+            <Node x="7" y="9">W</Node>
+            <Node x="8" y="9">W</Node>
+            <Node x="9" y="9">W</Node>
+
+            <GateNode x="4" y="9" xSpawn="4" ySpawn="1" lead="Dungeon1">M</GateNode>
+            <GateNode x="5" y="9" xSpawn="5" ySpawn="1" lead="Dungeon1">M</GateNode>
+        </Foreground>
+        <Background biome="DUNGEONFLOOR">
+            <Set x="0" y="0">DUNGEONWALL</Set>
+            <Set x="1" y="0">DUNGEONWALL</Set>
+            <Set x="2" y="0">DUNGEONWALL</Set>
+            <Set x="3" y="0">DUNGEONWALL</Set>
+            <Set x="4" y="0">DUNGEONWALL</Set>
+            <Set x="5" y="0">DUNGEONWALL</Set>
+            <Set x="6" y="0">DUNGEONWALL</Set>
+            <Set x="7" y="0">DUNGEONWALL</Set>
+            <Set x="8" y="0">DUNGEONWALL</Set>
+            <Set x="9" y="0">DUNGEONWALL</Set>
+
+            <Set x="0" y="1">DUNGEONWALL</Set>
+            <Set x="9" y="1">DUNGEONWALL</Set>
+
+            <Set x="0" y="1">DUNGEONWALL</Set>
+            <Set x="9" y="1">DUNGEONWALL</Set>
+
+            <Set x="0" y="2">DUNGEONWALL</Set>
+            <Set x="9" y="2">DUNGEONWALL</Set>
+
+            <Set x="0" y="3">DUNGEONWALL</Set>
+            <Set x="9" y="3">DUNGEONWALL</Set>
+
+            <Set x="0" y="4">DUNGEONWALL</Set>
+            <Set x="9" y="4">DUNGEONWALL</Set>
+
+            <Set x="0" y="5">DUNGEONWALL</Set>
+            <Set x="9" y="5">DUNGEONWALL</Set>
+
+            <Set x="0" y="6">DUNGEONWALL</Set>
+            <Set x="9" y="6">DUNGEONWALL</Set>
+
+            <Set x="0" y="7">DUNGEONWALL</Set>
+            <Set x="1" y="7">DUNGEONWALL</Set>
+            <Set x="2" y="7">DUNGEONWALL</Set>
+            <Set x="3" y="7">DUNGEONWALL</Set>
+            <Set x="6" y="7">DUNGEONWALL</Set>
+            <Set x="7" y="7">DUNGEONWALL</Set>
+            <Set x="8" y="7">DUNGEONWALL</Set>
+            <Set x="9" y="7">DUNGEONWALL</Set>
+
+            <Set x="0" y="8">DUNGEONWALL</Set>
+            <Set x="1" y="8">DUNGEONWALL</Set>
+            <Set x="2" y="8">DUNGEONWALL</Set>
+            <Set x="3" y="8">DUNGEONWALL</Set>
+            <Set x="6" y="8">DUNGEONWALL</Set>
+            <Set x="7" y="8">DUNGEONWALL</Set>
+            <Set x="8" y="8">DUNGEONWALL</Set>
+            <Set x="9" y="8">DUNGEONWALL</Set>
+
+            <Set x="0" y="9">DUNGEONWALL</Set>
+            <Set x="1" y="9">DUNGEONWALL</Set>
+            <Set x="2" y="9">DUNGEONWALL</Set>
+            <Set x="3" y="9">DUNGEONWALL</Set>
+            <Set x="6" y="9">DUNGEONWALL</Set>
+            <Set x="7" y="9">DUNGEONWALL</Set>
+            <Set x="8" y="9">DUNGEONWALL</Set>
+            <Set x="9" y="9">DUNGEONWALL</Set>
+        </Background>
+    </World>
+    <World name="Village" size="10">
+        <Foreground>
+            <GateNode x="0" y="4" xSpawn="8" ySpawn="4" lead="Forest1">G</GateNode>
+            <GateNode x="0" y="5" xSpawn="8" ySpawn="5" lead="Forest1">G</GateNode>
+            <GateNode x="4" y="9" xSpawn="4" ySpawn="1" lead="Forest3">G</GateNode>
+            <GateNode x="5" y="9" xSpawn="5" ySpawn="1" lead="Forest3">G</GateNode>
+            <GateNode x="4" y="0" xSpawn="4" ySpawn="8" lead="Plain7">G</GateNode>
+            <GateNode x="5" y="0" xSpawn="5" ySpawn="8" lead="Plain7">G</GateNode>            
+            <VillagerNode x="3" y="3" sprite="K">
+                <LocationQuest description="Vous êtes de retour, vous devez écouter le Roi." map="Plain5" x="5" y="5">Un retour triomphale</LocationQuest>
+            </VillagerNode>
+            <ShopkeeperNode x="4" y="0" type="WHOLESALER">
+                <Item>Potion de soin</Item>
+            </ShopkeeperNode>
+        </Foreground>
+        <Background biome="SAFEGRASS">
+            <Set x="4" y="0">ROAD</Set>
+            <Set x="4" y="1">ROAD</Set>
+            <Set x="4" y="2">ROAD</Set>
+            <Set x="4" y="3">ROAD</Set>
+            <Set x="4" y="4">ROAD</Set>
+            <Set x="4" y="5">ROAD</Set>
+            <Set x="4" y="6">ROAD</Set>
+            <Set x="4" y="7">ROAD</Set>
+            <Set x="4" y="8">ROAD</Set>
+            <Set x="4" y="9">ROAD</Set>
+
+            <Set x="5" y="0">ROAD</Set>
+            <Set x="5" y="1">ROAD</Set>
+            <Set x="5" y="2">ROAD</Set>
+            <Set x="5" y="3">ROAD</Set>
+            <Set x="5" y="4">ROAD</Set>
+            <Set x="5" y="5">ROAD</Set>
+            <Set x="5" y="6">ROAD</Set>
+            <Set x="5" y="7">ROAD</Set>
+            <Set x="5" y="8">ROAD</Set>
+            <Set x="5" y="9">ROAD</Set>
+
+            <Set x="0" y="4">ROAD</Set>
+            <Set x="1" y="4">ROAD</Set>
+            <Set x="2" y="4">ROAD</Set>
+            <Set x="3" y="4">ROAD</Set>
+            <Set x="6" y="4">ROAD</Set>
+            <Set x="7" y="4">ROAD</Set>
+            <Set x="8" y="4">ROAD</Set>
+            <Set x="9" y="4">ROAD</Set>
+
+            <Set x="0" y="5">ROAD</Set>
+            <Set x="1" y="5">ROAD</Set>
+            <Set x="2" y="5">ROAD</Set>
+            <Set x="3" y="5">ROAD</Set>
+            <Set x="6" y="5">ROAD</Set>
+            <Set x="7" y="5">ROAD</Set>
+            <Set x="8" y="5">ROAD</Set>
+            <Set x="9" y="5">ROAD</Set>
+        </Background>
+    </World>
+</Worlds>

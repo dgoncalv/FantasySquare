@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<!ELEMENT Worlds (World)+>
+
+<!ELEMENT World (Foreground, Background)+>
+    <!ATTLIST World name CDATA #REQUIRED>
+    <!ATTLIST World size CDATA #REQUIRED>
+
+<!ELEMENT Foreground (Node*, GateNode*, VillagerNode*, ShopkeeperNode*)>
+    <!ELEMENT Node (#PCDATA)>
+        <!ATTLIST Node x CDATA #REQUIRED>
+        <!ATTLIST Node y CDATA #REQUIRED>
+
+    <!ELEMENT GateNode (#PCDATA)>
+        <!ATTLIST GateNode x CDATA #REQUIRED>
+        <!ATTLIST GateNode y CDATA #REQUIRED>
+        <!ATTLIST GateNode xSpawn CDATA #REQUIRED>
+        <!ATTLIST GateNode ySpawn CDATA #REQUIRED>
+        <!ATTLIST GateNode lead CDATA #REQUIRED>
+
+    <!ELEMENT VillagerNode (LocationQuest*)>
+        <!ATTLIST VillagerNode sprite CDATA #REQUIRED>
+        <!ATTLIST VillagerNode x CDATA #REQUIRED>
+        <!ATTLIST VillagerNode y CDATA #REQUIRED>
+        <!ELEMENT LocationQuest (#PCDATA)>
+            <!ATTLIST LocationQuest description CDATA #REQUIRED>
+            <!ATTLIST LocationQuest map CDATA #REQUIRED>
+            <!ATTLIST LocationQuest x CDATA #REQUIRED>
+            <!ATTLIST LocationQuest y CDATA #REQUIRED>
+
+        <!ELEMENT ShopkeeperNode (Item*)>
+            <!ATTLIST ShopkeeperNode type CDATA #REQUIRED>
+            <!ATTLIST ShopkeeperNode x CDATA #REQUIRED>
+            <!ATTLIST ShopkeeperNode y CDATA #REQUIRED>
+            <!ELEMENT Item (#PCDATA)>
+
+<!ELEMENT Background (Set)*>
+    <!ATTLIST Background biome CDATA #REQUIRED>
+
+<!ELEMENT Set (#PCDATA)>
+    <!ATTLIST Set x CDATA #REQUIRED>
+    <!ATTLIST Set y CDATA #REQUIRED>

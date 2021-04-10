@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.layout.*?>
+
+<AnchorPane fx:id="screen" onKeyPressed="#movementHandler" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/10.0.2-internal" xmlns:fx="http://javafx.com/fxml/1" fx:controller="Controller.ExploraterController">
+   <children>
+      <GridPane fx:id="mainScreen" gridLinesVisible="true" hgap="1.0" vgap="1.0">
+      </GridPane>
+   </children>
+</AnchorPane>

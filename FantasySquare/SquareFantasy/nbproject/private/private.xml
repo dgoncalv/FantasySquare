@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/Projet/SquareFantasy/SquareFantasy/src/Model/Exploration/WorldNode.java</file>
+            <file>file:/D:/Projet/SquareFantasy/SquareFantasy/src/View/InventoryViewer.java</file>
+            <file>file:/D:/Projet/SquareFantasy/SquareFantasy/src/View/XpView.java</file>
+            <file>file:/D:/Projet/SquareFantasy/SquareFantasy/src/Model/Combat/Spell.java</file>
+            <file>file:/D:/Projet/SquareFantasy/SquareFantasy/src/Model/Exploration/GateNode.java</file>
+            <file>file:/D:/Projet/SquareFantasy/SquareFantasy/src/Model/Exploration/WorldSet.java</file>
+            <file>file:/D:/Projet/SquareFantasy/SquareFantasy/src/Model/Utility/Loader.java</file>
+            <file>file:/D:/Projet/SquareFantasy/SquareFantasy/src/Model/Combat/CombatManager.java</file>
+            <file>file:/D:/Projet/SquareFantasy/SquareFantasy/src/Controller/FightController.java</file>
+            <file>file:/D:/Projet/SquareFantasy/SquareFantasy/src/Model/Exploration/PartyNode.java</file>
+            <file>file:/D:/Projet/SquareFantasy/SquareFantasy/src/Model/History/QuestManager.java</file>
+            <file>file:/D:/Projet/SquareFantasy/SquareFantasy/src/Model/Game/Monster.java</file>
+            <file>file:/D:/Projet/SquareFantasy/SquareFantasy/src/Controller/ExploraterController.java</file>
+            <file>file:/D:/Projet/SquareFantasy/SquareFantasy/src/Model/Game/Entity.java</file>
+            <file>file:/D:/Projet/SquareFantasy/SquareFantasy/src/View/Main.java</file>
+            <file>file:/D:/Projet/SquareFantasy/SquareFantasy/src/View/ShopViewer.java</file>
+            <file>file:/D:/Projet/SquareFantasy/SquareFantasy/src/Model/Exploration/Set.java</file>
+            <file>file:/D:/Projet/SquareFantasy/SquareFantasy/src/Model/Misc/Inventory.java</file>
+            <file>file:/D:/Projet/SquareFantasy/SquareFantasy/src/Model/Exploration/World.java</file>
+            <file>file:/D:/Projet/SquareFantasy/SquareFantasy/src/Model/History/Quest.java</file>
+            <file>file:/D:/Projet/SquareFantasy/SquareFantasy/src/Model/Exploration/ShopType.java</file>
+            <file>file:/D:/Projet/SquareFantasy/SquareFantasy/src/View/ItemView.java</file>
+            <file>file:/D:/Projet/SquareFantasy/SquareFantasy/src/Model/Exploration/VillagerNode.java</file>
+            <file>file:/D:/Projet/SquareFantasy/SquareFantasy/src/Model/Game/LvlUp.java</file>
+            <file>file:/D:/Projet/SquareFantasy/SquareFantasy/src/Data/World.xml</file>
+            <file>file:/D:/Projet/SquareFantasy/SquareFantasy/src/Model/Misc/Statistic.java</file>
+            <file>file:/D:/Projet/SquareFantasy/SquareFantasy/src/View/ItemBuyView.java</file>
+            <file>file:/D:/Projet/SquareFantasy/SquareFantasy/src/Model/Misc/Consumable.java</file>
+            <file>file:/D:/Projet/SquareFantasy/SquareFantasy/src/Model/Combat/Bestiary.java</file>
+            <file>file:/D:/Projet/SquareFantasy/SquareFantasy/src/Model/History/LocationQuest.java</file>
+            <file>file:/D:/Projet/SquareFantasy/SquareFantasy/src/View/BuyView.java</file>
+            <file>file:/D:/Projet/SquareFantasy/SquareFantasy/src/View/SpellView.java</file>
+            <file>file:/D:/Projet/SquareFantasy/SquareFantasy/src/View/AllySelectionView.java</file>
+            <file>file:/D:/Projet/SquareFantasy/SquareFantasy/src/View/SellView.java</file>
+            <file>file:/D:/Projet/SquareFantasy/SquareFantasy/src/Model/Game/Character.java</file>
+            <file>file:/D:/Projet/SquareFantasy/SquareFantasy/src/Model/Combat/CharacterClass.java</file>
+            <file>file:/D:/Projet/SquareFantasy/SquareFantasy/src/View/EnemySelectionView.java</file>
+            <file>file:/D:/Projet/SquareFantasy/SquareFantasy/src/Model/Exploration/ExplorationManager.java</file>
+        </group>
+    </open-files>
+</project-private>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<!DOCTYPE LIST SYSTEM "Item.dtd">
+
+<LIST>
+    <ITEM VALUE="3" DESCRIPTION="Un os d'un squelette">Os</ITEM>
+    <ITEM VALUE="5" DESCRIPTION="Une pépite de fer">Pépite de fer</ITEM>
+    <ITEM VALUE="10" DESCRIPTION="Une pépite d'or">Pépite d'or</ITEM>
+    <CONSUMABLE VALUE="10" DESCRIPTION="Une potion de soin" STAT="HP" STATVALUE="5">Potion de soin</CONSUMABLE>
+    <CONSUMABLE VALUE="10" DESCRIPTION="Une potion de mana" STAT="MP" STATVALUE="5">Potion de mana</CONSUMABLE>
+</LIST>
